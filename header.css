@@ -1,0 +1,27 @@
+.header-wraper{
+    position: relative;
+    margin-top: 7.5rem;
+    background: url(background.jpg);
+background-size: cover;
+background-position: center;
+height:90vh ;
+}
+
+.main-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.main-info h1{
+    text-transform: uppercase;
+}
+.btn-main-offer{
+    /* border:11rem; */
+    /* flex-direction: column; */
+    text-transform: uppercase;
+    /* border-radius: 0; */
+    /* padding: 0.6rem 0.5rem 0.6 rem 0.7rem; */
+}
